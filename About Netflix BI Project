@@ -1,0 +1,20 @@
+So, Netflix BI Project is an MS Power BI Project 
+The dataset contains 8,805 rows and 12 columns, representing Netflix titles and related details. 
+Here is an overview of the columns:
+
+1.show_id: Unique identifier for each title.
+2.type: Whether the title is a "Movie" or "TV Show."
+3.title: The title of the content.
+4.director: The director(s) of the content.
+5.cast: The cast members of the content.
+6.country: The country of production.
+7.date_added: When the title was added to Netflix.
+8.release_year: The release year of the content.
+9.rating: The maturity rating (e.g., TV-MA, PG-13).
+10.duration: Runtime (for movies) or the number of seasons (for TV shows).
+l1.listed_in: Genre(s) of the title.
+12.description: A short description of the title
+
+*Here we have shown many insights and related charts.
+Basically we have created interactive Dashboards based on the insights from the Netflix Movies/TV Shows Database...
+Hope you like it and will be able to view and understand the overall Netflix Dataset and will use it in Decision making based on your thinking..                                                                                                                        
